@@ -1,5 +1,5 @@
-import logo from './egate_logo.png';
-import './App.css';
+import logo from "./egate_logo.png";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <h1> Mr.Kevin </h1>
       <p>Succeeded</p>
       <h2>hello azure</h2>
-   <img  src={logo} alt='logo ' />
+      <img src={logo} alt="logo " />
     </div>
   );
 }
