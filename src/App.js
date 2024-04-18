@@ -7,7 +7,13 @@ function App() {
       <h1> Mr.Kevin </h1>
       <p>Succeeded</p>
       <h2>hello azure</h2>
-      <img src={logo} alt="logo " />
+      <img width={200} height={200} src={logo} alt="logo " />
+      <span> </span>
+      <h1> Mr.Kevin </h1>
+      <p>Succeeded</p>
+      <h2>hello azure</h2>
+      <img width={200} height={200} src={logo} alt="logo " />
+      <span> </span>
     </div>
   );
 }
